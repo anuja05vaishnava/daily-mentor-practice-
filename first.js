@@ -39,14 +39,32 @@ console.log(myValue());
 
 
 
-var user = {
-     first_name: "Anuja",
-     last_name: "vaishnava",
-     age: 4
-     website: "anuja.vaishnava"
-};
 
-for (key in user) {
-     console.log(key);
-}
-The code ab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Data TypeNumbersBooleansStringsString FunctionsObjectJSONArray FunctionsFunctionFunctionsHigher Order FunctionOperatorLoop StatementClassClass Creation
